@@ -1,0 +1,14 @@
+metric,value
+sample_period,2001-01 to 2010-12
+stocks,1662
+monthly_observations,100687
+low_minus_high_annualized_return_pct,17.55
+low_minus_high_sharpe_ratio,1.683
+low_minus_high_max_drawdown_pct,-11.40
+low_minus_high_return_t_stat,5.32
+capm_annualized_alpha_pct,18.05
+capm_alpha_t_stat,5.505
+ff3_annualized_alpha_pct,16.60
+ff3_alpha_t_stat,5.172
+ch4_annualized_alpha_pct,11.58
+ch4_alpha_t_stat,3.175
